@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Array_sLength
 {
-    public class Program
+    public class Program13
     {
         static void Main(string[] args)
         {

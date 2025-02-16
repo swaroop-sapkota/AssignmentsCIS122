@@ -8,7 +8,7 @@ namespace SmallestAndBiggest
 {
     public class MinMax
     {
-        //If you want this to be 'non-static', just remove the static keyword.
+        // Method to find the smaller and bigger number
         public static int[] FindNums(int[] arr)
         {
             int min = arr[0];

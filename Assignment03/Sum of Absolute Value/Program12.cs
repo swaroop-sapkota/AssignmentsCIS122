@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace SumOfAbsoluteValue
 {
-    public class Program
+    public class Program12
     {
         static void Main(string[] args)
         {

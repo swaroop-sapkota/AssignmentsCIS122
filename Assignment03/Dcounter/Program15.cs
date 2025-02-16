@@ -1,6 +1,6 @@
 ﻿// Written by Swaroop Sapkota
 // 02/13/2025
-// Create a function that returns the smaller number
+// Create a function that counts how many D's are in a sentence
 
 using System;
 using System.Collections.Generic;
@@ -8,13 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SmallerNumber
+namespace DCounter
 {
-    public class Program
+    public class Program15
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SmallNum.ReturnSmallNum("1500", "1"));
+            Console.WriteLine(Counter.CountDs("My friend Dylan got distracted in school."));
         }
     }
 }
